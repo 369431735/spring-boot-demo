@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClientPropertiesManager">
+    <properties class="javax.swing.AbstractButton">
+      <property name="hideActionText" class="java.lang.Boolean" />
+    </properties>
+    <properties class="javax.swing.JComponent">
+      <property name="html.disable" class="java.lang.Boolean" />
+    </properties>
+    <properties class="javax.swing.JEditorPane">
+      <property name="JEditorPane.w3cLengthUnits" class="java.lang.Boolean" />
+      <property name="JEditorPane.honorDisplayProperties" class="java.lang.Boolean" />
+      <property name="charset" class="java.lang.String" />
+    </properties>
+    <properties class="javax.swing.JList">
+      <property name="List.isFileList" class="java.lang.Boolean" />
+    </properties>
+    <properties class="javax.swing.JPasswordField">
+      <property name="JPasswordField.cutCopyAllowed" class="java.lang.Boolean" />
+    </properties>
+    <properties class="javax.swing.JSlider">
+      <property name="Slider.paintThumbArrowShape" class="java.lang.Boolean" />
+      <property name="JSlider.isFilled" class="java.lang.Boolean" />
+    </properties>
+    <properties class="javax.swing.JTable">
+      <property name="Table.isFileList" class="java.lang.Boolean" />
+      <property name="JTable.autoStartsEdit" class="java.lang.Boolean" />
+      <property name="terminateEditOnFocusLost" class="java.lang.Boolean" />
+    </properties>
+    <properties class="javax.swing.JToolBar">
+      <property name="JToolBar.isRollover" class="java.lang.Boolean" />
+    </properties>
+    <properties class="javax.swing.JTree">
+      <property name="JTree.lineStyle" class="java.lang.String" />
+    </properties>
+    <properties class="javax.swing.text.JTextComponent">
+      <property name="caretAspectRatio" class="java.lang.Double" />
+      <property name="caretWidth" class="java.lang.Integer" />
+    </properties>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file url="file://E:/project/khnt-bzmz/khnt-bzmz-web/overlays" />
+    <file type="web" url="file://E:/project/khnt-bzmz/khnt-bzmz-web" />
+    <file type="web" url="file://E:/project/khnt-mz-byg/branches/khnt-mz-byg" />
+    <file type="web" url="file://E:/project/khnt-mz-dflz/branches/khnt-mz-dflz" />
+    <file type="web" url="file://E:/project/khnt-mz-dsr/branches/khnt-mz-dsr" />
+    <file type="web" url="file://E:/project/khnt-mz-etfl/branches/khnt-mz-etfl" />
+    <file type="web" url="file://E:/project/khnt-mz-gllr/branches/khnt-mz-gllr" />
+    <file type="web" url="file://E:/project/khnt-mz-hmbz/branches/khnt-mz-hmbz" />
+    <file type="web" url="file://E:/project/khnt-mz-hydj/branches/khnt-mz-hydj" />
+    <file type="web" url="file://E:/project/khnt-mz-jcfx/branches/khnt-mz-jcfx" />
+    <file type="web" url="file://E:/project/khnt-mz-jjyl/branches/khnt-mz-jjyl" />
+    <file type="web" url="file://E:/project/khnt-mz-jxkh/branches/khnt-mz-jxkh" />
+    <file type="web" url="file://E:/project/khnt-mz-llqt/branches/khnt-mz-llqt" />
+    <file type="web" url="file://E:/project/khnt-mz-lsjz/branches/khnt-mz-lsjz" />
+    <file type="web" url="file://E:/project/khnt-mz-oa/branches/khnt-mz-oa" />
+    <file type="web" url="file://E:/project/khnt-mz-qhdm/branches/khnt-mz-qhdm" />
+    <file type="web" url="file://E:/project/khnt-mz-slry/branches/khnt-mz-slry" />
+    <file type="web" url="file://E:/project/khnt-mz-sqgl/branches/khnt-mz-sqgl" />
+    <file type="web" url="file://E:/project/khnt-mz-sy/branches/khnt-mz-sy" />
+    <file type="web" url="file://E:/project/khnt-mz-tjtz/branches/khnt-mz-tjtz" />
+    <file type="web" url="file://E:/project/khnt-mz-wb/branches/khnt-mz-wb" />
+    <file type="web" url="file://E:/project/khnt-mz-xzsp/branches/khnt-mz-xzsp" />
+    <file type="web" url="file://E:/project/khnt-mz-xzzf/branches/khnt-mz-xzzf" />
+    <file type="web" url="file://E:/project/khnt-mz-yfaz/branches/khnt-mz-yfaz" />
+    <file type="web" url="file://E:/project/khnt-mz-yljg/branches/khnt-mz-yljg" />
+    <file type="web" url="file://E:/project/khnt-mz-yljz/branches/khnt-mz-yljz" />
+    <file type="web" url="file://E:/project/khnt-mz-yqjk/branches/khnt-mz-yqjk" />
+    <file type="web" url="file://E:/project/khnt-mz-zdbz/branches/khnt-mz-zdbz" />
+    <file type="web" url="file://E:/project/khnt-mz-zqgl/branches/khnt-mz-zqgl" />
+    <file type="web" url="file://E:/project/khnt-mz-zzcb/branches/khnt-mz-zzcb" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/test/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="E:/project/common/branches/khnt-mz-common/pom.xml" />
+        <option value="E:/project/khnt-bzmz/khnt-bzmz-web/pom.xml" />
+        <option value="E:/project/khnt-bzmz/pom.xml" />
+        <option value="E:/project/khnt-mz-byg/branches/khnt-mz-byg/pom.xml" />
+        <option value="E:/project/khnt-mz-dflz/branches/khnt-mz-dflz/pom.xml" />
+        <option value="E:/project/khnt-mz-dsr/branches/khnt-mz-dsr/pom.xml" />
+        <option value="E:/project/khnt-mz-etfl/branches/khnt-mz-etfl/pom.xml" />
+        <option value="E:/project/khnt-mz-gllr/branches/khnt-mz-gllr/pom.xml" />
+        <option value="E:/project/khnt-mz-hmbz/branches/khnt-mz-hmbz/pom.xml" />
+        <option value="E:/project/khnt-mz-hydj/branches/khnt-mz-hydj/pom.xml" />
+        <option value="E:/project/khnt-mz-jcfx/branches/khnt-mz-jcfx/pom.xml" />
+        <option value="E:/project/khnt-mz-jjyl/branches/khnt-mz-jjyl/pom.xml" />
+        <option value="E:/project/khnt-mz-jxkh/branches/khnt-mz-jxkh/pom.xml" />
+        <option value="E:/project/khnt-mz-llqt/branches/khnt-mz-llqt/pom.xml" />
+        <option value="E:/project/khnt-mz-lsjz/branches/khnt-mz-lsjz/pom.xml" />
+        <option value="E:/project/khnt-mz-oa/branches/khnt-mz-oa/pom.xml" />
+        <option value="E:/project/khnt-mz-qhdm/branches/khnt-mz-qhdm/pom.xml" />
+        <option value="E:/project/khnt-mz-slry/branches/khnt-mz-slry/pom.xml" />
+        <option value="E:/project/khnt-mz-sqgl/branches/khnt-mz-sqgl/pom.xml" />
+        <option value="E:/project/khnt-mz-sy/branches/khnt-mz-sy/pom.xml" />
+        <option value="E:/project/khnt-mz-tjtz/branches/khnt-mz-tjtz/pom.xml" />
+        <option value="E:/project/khnt-mz-wb/branches/khnt-mz-wb/pom.xml" />
+        <option value="E:/project/khnt-mz-xzsp/branches/khnt-mz-xzsp/pom.xml" />
+        <option value="E:/project/khnt-mz-xzzf/branches/khnt-mz-xzzf/pom.xml" />
+        <option value="E:/project/khnt-mz-yfaz/branches/khnt-mz-yfaz/pom.xml" />
+        <option value="E:/project/khnt-mz-yljg/branches/khnt-mz-yljg/pom.xml" />
+        <option value="E:/project/khnt-mz-yljz/branches/khnt-mz-yljz/pom.xml" />
+        <option value="E:/project/khnt-mz-zdbz/branches/khnt-mz-zdbz/pom.xml" />
+        <option value="E:/project/khnt-mz-zqgl/branches/khnt-mz-zqgl/pom.xml" />
+        <option value="E:/project/khnt-mz-zzcb/branches/khnt-mz-zzcb/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>

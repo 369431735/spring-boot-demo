@@ -1,0 +1,10 @@
+#端口配置
+server:
+   port: 8082
+   context-path: /demo #路径配置
+   spring.mvc.view.prefix: /public
+   spring.mvc.view.suffix: .jsp
+girl:
+ cupsize: F
+ age: 15
+cupsize: B

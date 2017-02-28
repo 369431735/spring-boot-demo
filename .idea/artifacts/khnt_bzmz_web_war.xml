@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="khnt-bzmz-web:war">
+    <output-path>E:/project/khnt-bzmz/khnt-bzmz-web/target</output-path>
+    <root id="archive" name="khnt-bzmz-web.war">
+      <element id="artifact" artifact-name="khnt-bzmz-web:war exploded" />
+    </root>
+  </artifact>
+</component>

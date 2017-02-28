@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="khnt-mz-oa:war">
+    <output-path>E:/project/khnt-mz-oa/branches/khnt-mz-oa/target</output-path>
+    <root id="archive" name="khnt-mz-oa-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="khnt-mz-oa:war exploded" />
+    </root>
+  </artifact>
+</component>

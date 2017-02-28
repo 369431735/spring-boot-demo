@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="khnt-mz-lsjz:war exploded">
+    <output-path>E:/project/khnt-mz-lsjz/branches/khnt-mz-lsjz/target/khnt-mz-lsjz-1.0.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="khnt-mz-lsjz" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="E:/project/khnt-mz-lsjz/branches/khnt-mz-lsjz/target/khnt-mz-lsjz-1.0.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="khnt-mz-lsjz/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="git_workSpace_" />
+        <module name="test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="git_workSpace_" target="1.6" />
+      <module name="khnt-bzmz" target="1.6" />
+      <module name="khnt-bzmz-web" target="1.7" />
+      <module name="khnt-mz-byg" target="1.5" />
+      <module name="khnt-mz-common" target="1.7" />
+      <module name="khnt-mz-dflz" target="1.5" />
+      <module name="khnt-mz-dsr" target="1.5" />
+      <module name="khnt-mz-etfl" target="1.5" />
+      <module name="khnt-mz-gllr" target="1.5" />
+      <module name="khnt-mz-hmbz" target="1.5" />
+      <module name="khnt-mz-hydj" target="1.5" />
+      <module name="khnt-mz-jcfx" target="1.5" />
+      <module name="khnt-mz-jjyl" target="1.5" />
+      <module name="khnt-mz-jxkh" target="1.7" />
+      <module name="khnt-mz-llqt" target="1.5" />
+      <module name="khnt-mz-lsjz" target="1.5" />
+      <module name="khnt-mz-oa" target="1.7" />
+      <module name="khnt-mz-qhdm" target="1.5" />
+      <module name="khnt-mz-slry" target="1.5" />
+      <module name="khnt-mz-sqgl" target="1.5" />
+      <module name="khnt-mz-sy" target="1.5" />
+      <module name="khnt-mz-tjtz" target="1.5" />
+      <module name="khnt-mz-wb" target="1.5" />
+      <module name="khnt-mz-xzsp" target="1.5" />
+      <module name="khnt-mz-xzzf" target="1.5" />
+      <module name="khnt-mz-yfaz" target="1.5" />
+      <module name="khnt-mz-yljg" target="1.5" />
+      <module name="khnt-mz-yljz" target="1.5" />
+      <module name="khnt-mz-yqjk" target="1.7" />
+      <module name="khnt-mz-zdbz" target="1.5" />
+      <module name="khnt-mz-zqgl" target="1.5" />
+      <module name="khnt-mz-zzcb" target="1.5" />
+      <module name="test" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

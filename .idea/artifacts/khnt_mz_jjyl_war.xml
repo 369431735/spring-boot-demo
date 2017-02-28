@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="khnt-mz-jjyl:war">
+    <output-path>E:/project/khnt-mz-jjyl/branches/khnt-mz-jjyl/target</output-path>
+    <root id="archive" name="khnt-mz-jjyl-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="khnt-mz-jjyl:war exploded" />
+    </root>
+  </artifact>
+</component>

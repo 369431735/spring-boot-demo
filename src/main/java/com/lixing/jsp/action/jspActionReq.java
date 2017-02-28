@@ -14,7 +14,7 @@ public class jspActionReq {
     public String jump(String url){
         return "jsp/helloJsp";
     }
-    @RequestMapping("/qhelloJsp")
+    @RequestMapping("/helloJsp")
     public String helloJsp(Map<String, Object> map) {
         return "helloJsp";
     }

@@ -1,0 +1,14 @@
+2017-08-23 10:06:25,989  INFO ApplicationTests:48 ---- Starting ApplicationTests on libiidev8543-PC with PID 6284 (C:\Users\libiidev8543\Downloads\didispace-SpringBoot-Learning-master\SpringBoot-Learning\Chapter4-2-2\target\test-classes started by libiidev8543 in C:\Users\libiidev8543\Downloads\didispace-SpringBoot-Learning-master\SpringBoot-Learning\Chapter4-2-2)
+2017-08-23 10:06:25,989 DEBUG ApplicationTests:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2017-08-23 10:06:25,990  INFO ApplicationTests:666 ---- No active profile set, falling back to default profiles: default
+2017-08-23 10:06:26,616  INFO ApplicationTests:57 ---- Started ApplicationTests in 0.885 seconds (JVM running for 1.433)
+2017-08-23 10:06:26,623  INFO ApplicationTests:18 ---- Êä³öinfo
+2017-08-23 10:06:26,623 DEBUG ApplicationTests:19 ---- Êä³ödebug
+2017-08-23 10:06:26,624 ERROR ApplicationTests:20 ---- Êä³öerror
+2017-08-23 10:14:01,283  INFO ApplicationTests:48 ---- Starting ApplicationTests on libiidev8543-PC with PID 7272 (C:\Users\libiidev8543\Downloads\didispace-SpringBoot-Learning-master\SpringBoot-Learning\Chapter4-2-2\target\test-classes started by libiidev8543 in C:\Users\libiidev8543\Downloads\didispace-SpringBoot-Learning-master\SpringBoot-Learning\Chapter4-2-2)
+2017-08-23 10:14:01,284 DEBUG ApplicationTests:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2017-08-23 10:14:01,285  INFO ApplicationTests:666 ---- No active profile set, falling back to default profiles: default
+2017-08-23 10:14:02,085  INFO ApplicationTests:57 ---- Started ApplicationTests in 1.101 seconds (JVM running for 1.831)
+2017-08-23 10:14:02,093  INFO ApplicationTests:18 ---- è¾“å‡ºinfo
+2017-08-23 10:14:02,093 DEBUG ApplicationTests:19 ---- è¾“å‡ºdebug
+2017-08-23 10:14:02,094 ERROR ApplicationTests:20 ---- è¾“å‡ºerror

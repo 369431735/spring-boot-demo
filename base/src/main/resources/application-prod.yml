@@ -1,0 +1,8 @@
+#端口配置
+server:
+   port: 8080
+   #context-path: /demo #路径配置
+girl:
+ cupsize: B
+ age: 15
+cupsize: B

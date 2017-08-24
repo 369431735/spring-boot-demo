@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="khnt-mz-jcfx:war">
-    <output-path>E:/project/khnt-mz-jcfx/branches/khnt-mz-jcfx/target</output-path>
-    <root id="archive" name="khnt-mz-jcfx-1.0.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="khnt-mz-jcfx:war exploded" />
-    </root>
-  </artifact>
-</component>

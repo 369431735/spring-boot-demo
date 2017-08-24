@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="khnt-mz-dflz:war">
-    <output-path>E:/project/khnt-mz-dflz/branches/khnt-mz-dflz/target</output-path>
-    <root id="archive" name="khnt-mz-dflz-1.0.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="khnt-mz-dflz:war exploded" />
-    </root>
-  </artifact>
-</component>

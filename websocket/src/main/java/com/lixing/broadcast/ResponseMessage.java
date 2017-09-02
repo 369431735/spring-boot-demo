@@ -1,7 +1,7 @@
 package com.lixing.broadcast;
 
 /**
- * Created by sang on 16-12-22.
+ * 服务端向浏览器发送此类消息
  */
 public class ResponseMessage {
     private String responseMessage;

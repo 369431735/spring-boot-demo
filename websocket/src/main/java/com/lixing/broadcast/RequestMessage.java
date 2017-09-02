@@ -1,7 +1,7 @@
 package com.lixing.broadcast;
 
 /**
- * Created by sang on 16-12-22.
+ * 浏览器向服务端发送此类消息
  */
 public class RequestMessage {
 

@@ -1,0 +1,48 @@
+a, ul, button, input, select, textarea, h1, h2, h3, h4, h5, h6 {
+	font-family: Microsoft YaHei, '宋体', Tahoma, Helvetica, Arial,
+		"\5b8b\4f53", sans-serif;
+}
+/* 主体内容往下移动70px */
+/* body {
+	padding-top: 70px;
+} */
+/* button{
+	color : #1874CD;
+} */
+button {
+	color: #15428B;
+	text-decoration: none;
+}
+a:hover {
+	color: #0000ff;
+	text-decoration: none;
+}
+/* .containers {
+	width: 93%;
+	height: 768px;
+	margin: 0px auto;
+} */
+th {
+	text-align: center;
+}
+
+
+/* 首页商品缩略图的外观定制*/
+.thumbnail img {
+	height: 150px;
+}
+
+.thumbnail .items-details {
+	height: 3em;
+	overflow-y: auto;
+}
+
+tr.removed {
+	color: darkgray;
+	text-decoration: line-through;
+}
+/* 添加滚动条 */
+.scroll_bar{
+	height: 600px; 
+	overflow: auto;
+}

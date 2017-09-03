@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp">
+<meta charset="UTF-8">
+<head>
+<link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+<link rel="stylesheet" href="bootstrap/css/bootstrap-theme.css">
+<link rel="stylesheet" href="css/style.css">
+
+<script src="jquery/jquery.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="angularJS/angular.js"></script>
+<script src="angularJS/angular-animate.js"></script>
+<script src="angularJS/angular-ui-router.js"></script>
+<script src="angularJS/angular-toastr.tpls.js"></script>
+
+<script src="js/underscore.js"></script>
+<script src="js/directives.js"></script>
+<script src="js/app.js"></script>
+<script src="js/controllers.js"></script> 
+<script src="js/filters.js"></script>
+<!-- <script src="js/services.js"></script>  -->
+	<style type="text/css">
+		.content{
+			padding:100px 145px;
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+<!---使用bootstrap定义的导航栏，并配合AngularJs的路由，通过路由名称#oper和#directive 切换试图 -->
+<nav class="navbar navbar-inverse navbar-fixed-top" >
+	<div class="container">
+		<div id="navbar" class="collapse navbar-collapse">
+			<ul>
+				<li>
+					<a href="#/oper">后台交互</a>
+				</li>
+				<li><a href="#/directive">自定义指令</a></li>
+			</ul>
+		</div>
+	</div>
+</nav>
+	<!-- 视图 -->
+	<div class="content" ui-view ></div>
+</body>
+</html>
